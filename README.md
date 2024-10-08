@@ -6,8 +6,9 @@ The scarcity of accessible medical image data poses a significant obstacle in ef
 ![image](https://github.com/lyskds/LLCM/assets/162650359/6192f441-50e2-453c-a966-36c54f77c32b)
 
 **</h2>Results comparison with the other state-of-the-art (SOTA) models</h2>**
-![image](https://github.com/lyskds/LLCM/assets/162650359/178fcf44-74a9-4d01-846e-63aa0e3199a3)
-- You may refer to our paper for more details
+![image](https://github.com/user-attachments/assets/18ef3456-35af-4347-8118-7289404cc606)
+
+- You may refer to Table.3 from our paper for more details
 
 **</h2>Demo</h2>**
 - If you want to generate medical images using our model weight, [visit our website](https://7e52-129-98-38-34.ngrok-free.app). From the drop-down menu, select any prompt and the number of images. You may generate any number of images as per your requirement. The more the number of images to be generated, the more the inference time. So, we restrict the maximum number of images to 4 for a single click on our website. 
