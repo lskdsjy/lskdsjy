@@ -11,7 +11,7 @@ The scarcity of accessible medical image data poses a significant obstacle in ef
 - You may refer to Table.3 from our paper for more details
 
 **</h2>Demo</h2>**
-- If you want to generate medical images using our model weight, [visit our website](https://7e52-129-98-38-34.ngrok-free.app). From the drop-down menu, select any prompt and the number of images. You may generate any number of images as per your requirement. The more the number of images to be generated, the more the inference time. So, we restrict the maximum number of images to 4 for a single click on our website. 
+- If you want to generate medical images using our model weight, [visit our website](https://a974-129-98-40-240.ngrok-free.app). From the drop-down menu, select any prompt and the number of images. You may generate any number of images as per your requirement. The more the number of images to be generated, the more the inference time. So, we restrict the maximum number of images to 4 for a single click on our website. 
 - An example is shown below
   
 ![image](https://github.com/lyskds/LLCM/assets/162650359/e2492e5f-9e4a-4cdd-8485-de84c5b36da6)
